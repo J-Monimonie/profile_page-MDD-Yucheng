@@ -109,7 +109,7 @@ a{
 }
 .grid-vertical:hover{
   opacity:80%;
-  transform:scale(1.2,1.2)
+  transform:scale(1.1)
 }
 .grid-vertical img{
   width: 100%;
