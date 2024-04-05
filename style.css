@@ -52,6 +52,7 @@ a{
   width: 1000px;
   box-shadow: 10px 10px 10px rgb(252,225,208);
   overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 /* ---------PERSONAL DESIGN--------- */
